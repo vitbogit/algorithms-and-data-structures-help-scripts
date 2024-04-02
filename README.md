@@ -1,4 +1,4 @@
-# Motivation
+# Finding erros in your algorithm
 
 I would explain my motivation for writing these scripts in this meme:
 
