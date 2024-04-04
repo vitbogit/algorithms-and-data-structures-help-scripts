@@ -4,4 +4,4 @@
 
 Sometimes it\`s nearly impossible to figure out why algorithm doesn\`t work with provided test cases, that`s why we could use some extra tools.
 
-Of course, **we should always look for mistakes in our algorithms first using our eyes**, but everyone may have their own reasons for using these scripts, and I have my reasons too.
+❗ Of course, **we should always look for mistakes in our algorithms first using our eyes**, but everyone may have their own reasons for using these scripts, and I have my reasons too.
